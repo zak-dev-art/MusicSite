@@ -1,0 +1,236 @@
+{
+    "playlists": [
+      {
+        "id": 1,
+        "name": "Chill Vibes",
+        "description": "Relaxing tracks for studying and winding down.",
+        "image": "https://images.unsplash.com/photo-1507874457470-272b3c8d8ee2",
+        "tracks": [
+          {
+            "id": 1,
+            "title": "Sunset Dreams",
+            "artist": "Lo-Fi Beats",
+            "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+            "rating": 0
+          },
+          {
+            "id": 2,
+            "title": "Calm Nights",
+            "artist": "Chillhop",
+            "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+            "rating": 0
+          },
+          {
+            "id": 3,
+            "title": "Ocean Reflections",
+            "artist": "Beat Flow",
+            "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+            "rating": 0
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Workout Energy",
+        "description": "High-energy tracks to keep you motivated.",
+        "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4",
+        "tracks": [
+          {
+            "id": 1,
+            "title": "Push Harder",
+            "artist": "DJ Fit",
+            "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+            "rating": 0
+          },
+          {
+            "id": 2,
+            "title": "Adrenaline Rush",
+            "artist": "Pump Squad",
+            "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+            "rating": 0
+          },
+          {
+            "id": 3,
+            "title": "Endurance Mode",
+            "artist": "Power Beats",
+            "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+            "rating": 0
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Focus Flow",
+        "description": "Instrumental beats to help you stay productive.",
+        "image": "https://images.unsplash.com/photo-1487215078519-e21cc028cb29",
+        "tracks": [
+          {
+            "id": 1,
+            "title": "Steady Mind",
+            "artist": "Flow Motion",
+            "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+            "rating": 0
+          },
+          {
+            "id": 2,
+            "title": "Deep Focus",
+            "artist": "Neuro Waves",
+            "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+            "rating": 0
+          },
+          {
+            "id": 3,
+            "title": "Creative Sparks",
+            "artist": "Mind Beats",
+            "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+            "rating": 0
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Party Hits",
+        "description": "Turn up the volume and dance!",
+        "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819",
+        "tracks": [
+          {
+            "id": 1,
+            "title": "Dance Tonight",
+            "artist": "Club Mixers",
+            "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+            "rating": 0
+          },
+          {
+            "id": 2,
+            "title": "Bass Drop",
+            "artist": "Electro Squad",
+            "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+            "rating": 0
+          },
+          {
+            "id": 3,
+            "title": "Midnight Fever",
+            "artist": "DJ Pulse",
+            "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+            "rating": 0
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Sunday Soul",
+        "description": "Smooth and soulful tunes for your chill day.",
+        "image": "https://images.unsplash.com/photo-1497032628192-86f99bcd76bc",
+        "tracks": [
+          {
+            "id": 1,
+            "title": "Morning Coffee",
+            "artist": "Soul Collective",
+            "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
+            "rating": 0
+          },
+          {
+            "id": 2,
+            "title": "Mellow Breeze",
+            "artist": "Smooth Crew",
+            "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
+            "rating": 0
+          },
+          {
+            "id": 3,
+            "title": "Golden Hour",
+            "artist": "Soul Line",
+            "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+            "rating": 0
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Retro Classics",
+        "description": "Timeless hits from the past decades.",
+        "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4",
+        "tracks": [
+          {
+            "id": 1,
+            "title": "Back in Time",
+            "artist": "Retro Groove",
+            "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3",
+            "rating": 0
+          },
+          {
+            "id": 2,
+            "title": "Golden Memories",
+            "artist": "Oldschool Vibes",
+            "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-17.mp3",
+            "rating": 0
+          },
+          {
+            "id": 3,
+            "title": "Funky Streets",
+            "artist": "Disco Beats",
+            "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-18.mp3",
+            "rating": 0
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Late Night Drive",
+        "description": "Cruise under the stars with smooth beats.",
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+        "tracks": [
+          {
+            "id": 1,
+            "title": "City Lights",
+            "artist": "Nocturnal Flow",
+            "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-19.mp3",
+            "rating": 0
+          },
+          {
+            "id": 2,
+            "title": "Moon Ride",
+            "artist": "Night Cruiser",
+            "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-20.mp3",
+            "rating": 0
+          },
+          {
+            "id": 3,
+            "title": "Midnight Chill",
+            "artist": "Wave Motion",
+            "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-21.mp3",
+            "rating": 0
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Morning Motivation",
+        "description": "Start your day strong with upbeat tunes.",
+        "image": "https://images.unsplash.com/photo-1522199710521-72d69614c702",
+        "tracks": [
+          {
+            "id": 1,
+            "title": "Rise and Shine",
+            "artist": "Motiv8",
+            "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-22.mp3",
+            "rating": 0
+          },
+          {
+            "id": 2,
+            "title": "Fresh Start",
+            "artist": "Upbeat Crew",
+            "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-23.mp3",
+            "rating": 0
+          },
+          {
+            "id": 3,
+            "title": "Run the Day",
+            "artist": "Power Mode",
+            "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-24.mp3",
+            "rating": 0
+          }
+        ]
+      }
+    ]
+  }

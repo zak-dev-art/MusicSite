@@ -6,7 +6,7 @@ const [title, setTitle] = useState('')
 const [description, setDescription] = useState('')
 const [image, setImage] = useState('')
 const [songUrl, setSongUrl] = useState('')
-
+}
 
 function submit(e) {
 e.preventDefault()

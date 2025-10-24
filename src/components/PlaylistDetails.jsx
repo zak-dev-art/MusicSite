@@ -8,7 +8,7 @@ export default function PlaylistDetail() {
 
   // ✅ Fetch the playlist by ID
   useEffect(() => {
-    fetch(http://localhost:8001/playlists/${id})
+    fetch(https://json-server-vercel-rho-ten.vercel.app/playlists/${id})
       .then((res) => {
         if (!res.ok) throw new Error("Failed to fetch playlist");
         return res.json();
@@ -35,7 +35,7 @@ export default function PlaylistDetail() {
     setPlaylist({ ...playlist, tracks: updatedTracks });
 
     // Send PATCH to json-server
-    fetch(http://localhost:8001/playlists/${playlist.id}, {
+    fetch(https://json-server-vercel-rho-ten.vercel.app/playlists/${playlist.id}, {
       method: "PATCH",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ tracks: updatedTracks }),

@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import CreatePlaylistModal from "./components/CreatePlaylistModal";
 import PlaylistList from "./components/PlaylistList";
 
-const API = "http://localhost:8001/playlists";
+const API = "https://json-server-vercel-rho-ten.vercel.app/playlists";
 
 export default function App() {
   const [playlists, setPlaylists] = useState([]);
